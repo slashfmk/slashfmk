@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yannick Fumukani
 - 👀 I’m interested in Java, Swift, C/C++, Python, Javascript/Typescript, Html, Css/SCSS, ReactJS, React Native, Apple SwiftUI, Springboot, Databases
-- 🌱 I’m currently learning SwiftUI Framework
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me slashcs7@hotmail.com
 
