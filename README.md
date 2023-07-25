@@ -7,10 +7,10 @@
 
 <h2>Reach me out</h2>
 <ul>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/yannick-fumukani-a894589b/">linkedin.com/in/yannick-fumukani-a894589b</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/yannickfumukani/">linkedin.com/in/yannick-fumukani-a894589b</a></li>
 <li>Behance: <a href="https://www.behance.net/slashfmk">behance.net/slashfmk</a></li>
 <li>Instagram: <a href="https://www.instagram.com/slashfmk">instagram.com/slashfmk/</a></li>
-<li>Email: <a href="mailto:slashcs7@hotmail.com">slashcs7@hotmail.com</a></li>
+<li>Email: <a href="mailto:yanfumukani@gmail.com">yanfumukani@gmail.com</a></li>
  </ul>
 <!---
 slashfmk/slashfmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
